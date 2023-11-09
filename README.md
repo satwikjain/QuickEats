@@ -4,8 +4,6 @@
 
 QuickEats is a responsive single-page food delivery application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js). It provides users with a seamless experience, allowing them to browse and select food items, specify quantities, and complete orders.
 
-![QuickEats Screenshot1](./Screenshot1.png)
-![QuickEats Screenshot2](./Screenshot2.png)
 
 
 ## Features

@@ -8,6 +8,7 @@ export default function Signup() {
     password: "",
     geolocation: "",
   });
+  
   const handlesubmit = async (e) => {
     e.preventDefault();
     const response = await fetch("http://localhost:5000/api/createuser", {
